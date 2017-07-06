@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="23" Column="1" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/ViewController.designer.cs" Line="45" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Tourezy/iOS/Controllers/ResultListing/TableView/ResultListingTableSource.cs" line="143" offsetX="1920" offsetY="3536" expression="tableItems[indexPath.Row].ImageURL" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Blaze.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MultiItemStartupConfigurations />
+</Properties>

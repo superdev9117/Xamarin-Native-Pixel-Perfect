@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Blaze", "Blaze.shproj", "{01492305-ED9F-4737-B7E2-3CA09BA52011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blaze.iOS", "iOS\Blaze.iOS.csproj", "{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Release|iPhone.Build.0 = Release|iPhone
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3AE44A47-055F-4A3A-B728-5D6D8D4466C1}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
